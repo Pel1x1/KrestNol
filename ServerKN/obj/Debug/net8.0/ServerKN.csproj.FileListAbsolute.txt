@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\KrestikiNoliki\ServerKN\bin\Debug\net8.0\ServerKN.exe
+C:\Users\user\source\repos\KrestikiNoliki\ServerKN\bin\Debug\net8.0\ServerKN.deps.json
+C:\Users\user\source\repos\KrestikiNoliki\ServerKN\bin\Debug\net8.0\ServerKN.runtimeconfig.json
+C:\Users\user\source\repos\KrestikiNoliki\ServerKN\bin\Debug\net8.0\ServerKN.dll
+C:\Users\user\source\repos\KrestikiNoliki\ServerKN\bin\Debug\net8.0\ServerKN.pdb
+C:\Users\user\source\repos\KrestikiNoliki\ServerKN\obj\Debug\net8.0\ServerKN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\KrestikiNoliki\ServerKN\obj\Debug\net8.0\ServerKN.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\KrestikiNoliki\ServerKN\obj\Debug\net8.0\ServerKN.AssemblyInfo.cs
+C:\Users\user\source\repos\KrestikiNoliki\ServerKN\obj\Debug\net8.0\ServerKN.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KrestikiNoliki\ServerKN\obj\Debug\net8.0\ServerKN.dll
+C:\Users\user\source\repos\KrestikiNoliki\ServerKN\obj\Debug\net8.0\refint\ServerKN.dll
+C:\Users\user\source\repos\KrestikiNoliki\ServerKN\obj\Debug\net8.0\ServerKN.pdb
+C:\Users\user\source\repos\KrestikiNoliki\ServerKN\obj\Debug\net8.0\ServerKN.genruntimeconfig.cache
+C:\Users\user\source\repos\KrestikiNoliki\ServerKN\obj\Debug\net8.0\ref\ServerKN.dll
